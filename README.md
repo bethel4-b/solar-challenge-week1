@@ -1,4 +1,5 @@
 # Solar Challenge - Week 0
+## The project has the goal of researching, analyzing, and processing solar irradiance data across different regions. It will primarily undertake the tasks of cleaning, visualizing, and identifying trends/correlations that could help in the evaluation of solar potential and performance. This report is a digest of the data profiling, cleaning, and exploratory analysis steps taken for Benin within the general solar analytics exercise.
 
 ## Setup Instructions
 
