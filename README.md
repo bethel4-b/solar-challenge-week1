@@ -24,9 +24,3 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ Push and Create Pull Request
-
-```bash
-# Push your branch
-git push -u origin setup-task
-```
