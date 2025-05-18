@@ -1,4 +1,4 @@
-# Solar Challenge - Week 1
+# Solar Challenge - Week 0
 
 ## Setup Instructions
 
