@@ -24,4 +24,16 @@ pip install -r requirements.txt
 ```
 
 ---
+# Streamlit Solar Dashboard
 
+##  Overview
+This app compares GHI, DNI, and DHI values across Benin, Togo, and Sierra Leone. It uses Streamlit for interactive visualization.
+
+##  Structure
+- `app/main.py`: Main dashboard
+- `app/utils.py`: Data loading and cleaning
+- `data/`: Cleaned CSVs (excluded from Git)
+
+##  How to Run
+```bash
+streamlit run app/main.py
